@@ -1,1 +1,5 @@
-Placeholder file, feel free to use or delete.
+My database follows 3NF because:
+- Each table has a primary key that uniquely identifies each row.
+- There are no repeating groups or redundant data.
+- All non-key attributes fully depend on the primary key.
+- Relationships between tables are managed using foreign keys.
